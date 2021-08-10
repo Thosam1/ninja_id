@@ -1,6 +1,6 @@
 # ninja_id
 
-Following TheNetNinja :
+Following TheNetNinja (episode 15) :
 
 A little app, where you can upload a profile picture and increase the level by clicking on the + button
 
